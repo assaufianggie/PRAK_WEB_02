@@ -136,6 +136,13 @@ section h3{
     color: #398BAD;
     padding: 8px 20px;
 }
+.box .table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid #ddd;
+}
 .box .col-4 h4{
     margin: 20px 0;
 }
